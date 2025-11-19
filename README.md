@@ -1,0 +1,1 @@
+This project implements and compares advanced machine learning architectures to predict customer attrition (churn) in the telecommunications industry. The goal is to identify customers at risk of leaving the provider to enable proactive retention strategies.
